@@ -1,0 +1,22 @@
+{
+  "name": "bully-network",
+  "version": "1.0.0",
+  "description": "bully algorithm simple implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mariam-mahmoud",
+  "license": "ISC",
+
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "chalk": "^2.4.2",
+    "dockerode": "^2.5.8",
+    "ioredis": "^4.14.0",
+    "node-cron": "^2.0.3"
+  },
+  "devDependencies": {
+    "node-key-sender": "^1.0.11"
+  }
+}
